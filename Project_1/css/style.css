@@ -3045,7 +3045,7 @@ header {
 /*-- edu books wrapper End --*/
 /*-- edu counter wrapper Start --*/
 .edu_counter_main_section_wrapper{
-	background:url('../images/counto.jpg') 50% 0 repeat-y;
+	background:url('../images/myCounto.jpg') 50% 0 repeat-y;
 	background-position:center 0;
 	background-size:cover;
 	height:100%;
@@ -4241,7 +4241,7 @@ header {
     background-color: rgba(10, 15, 28, 0.7);
 }
 .page_title_section{
-	background: url(../images/inner_page.jpg) 50% 0 repeat-y;
+	background: url(../images/myInnerpage3.jpg) 50% 0 repeat-y;
     float: left;
     width: 100%;
     height: 100%;
